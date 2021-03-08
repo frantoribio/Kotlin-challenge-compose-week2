@@ -19,6 +19,8 @@ This time I have focused in:
 
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
 
+https://user-images.githubusercontent.com/6997798/110380026-db054d80-8057-11eb-8edc-2dbc577eccf8.mp4
+
 ## License
 ```
 Copyright 2020 The Android Open Source Project
