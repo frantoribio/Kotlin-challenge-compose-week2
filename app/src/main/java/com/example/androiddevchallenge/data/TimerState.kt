@@ -13,17 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.androiddevchallenge.ui.theme
+package com.example.androiddevchallenge.data
 
-import androidx.compose.material.Typography
-import androidx.compose.ui.text.font.Font
-import androidx.compose.ui.text.font.FontFamily
-import com.example.androiddevchallenge.R
-
-val digital7Font = FontFamily(
-    Font(R.font.digital_7),
-)
-
-val typography = Typography(
-    defaultFontFamily = digital7Font,
+data class TimerState(
+    val minutes: Int = 0,
+    val seconds: Int = 0,
 )
